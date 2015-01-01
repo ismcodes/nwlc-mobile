@@ -1,0 +1,24 @@
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes.dex : \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/io/cordova/hellocordova/R$drawable.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/io/cordova/hellocordova/R$string.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/io/cordova/hellocordova/CordovaApp.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/io/cordova/hellocordova/R$attr.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/io/cordova/hellocordova/R$xml.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/io/cordova/hellocordova/R.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/io/cordova/hellocordova/BuildConfig.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$5.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/home/isaac/Projects/android/cordova/nileswest/platforms/android/ant-build/dexedLibs/classes-78797ea9190b92b9a2cd532f108da664.jar \
